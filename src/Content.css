@@ -1,0 +1,16 @@
+.Content {
+  background: linear-gradient(
+    111.5deg,
+    rgb(253, 132, 81) 21.9%,
+    rgb(255, 189, 111) 92.2%
+  );
+  margin-top: 12px;
+  padding: 12px 0px;
+}
+
+.Content .container {
+  background-color: #ffffff;
+  border: #ffffff 2px solid;
+  border-radius: 4px;
+  padding: 12px 0px;
+}
