@@ -4,6 +4,7 @@
     rgb(253, 132, 81) 21.9%,
     rgb(255, 189, 111) 92.2%
   );
+  border-radius: 8px;
   margin-top: 12px;
   padding: 12px 0px;
 }
@@ -12,5 +13,21 @@
   background-color: #ffffff;
   border: #ffffff 2px solid;
   border-radius: 4px;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+  margin-top: 12px;
   padding: 12px 0px;
+}
+
+.nav {
+  background-color: white !important;
+  border-radius: 8px;
+}
+
+.nav-header {
+  color: var(--accent-colour);
+  font-family: var(--main-heading-font-family);
+}
+
+.nav-links {
+  font-size: smaller !important;
 }
